@@ -1,0 +1,31 @@
+#hero-form {
+	float: right;
+    margin-right: 45px;
+}
+
+#heroButtons {
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 850px;
+	padding-bottom: 25px;
+	float: left
+}
+
+#hero-form {
+	background: #e0e0ea;
+    height: 85px;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+#addHero {
+	margin-left: 77px;
+}
+
+#hero {
+	margin-right: 10px;
+	border-radius: 10px;
+    background: royalblue;
+    color: white;
+}
